@@ -1,0 +1,78 @@
+# Open Neurovisual Signal Augmentation Framework
+
+## Overview
+
+This repository hosts open, non-invasive conceptual research frameworks
+focused on restoring functional perception by amplifying subthreshold
+neural activity — without introducing artificial information or invasive procedures.
+
+All work is released under the MIT License to prevent proprietary misuse
+and ensure accessibility for public-good research.
+
+---
+
+## Projects Included
+
+### 1. HTVN (Hybrid Thalamocortical Visual Neuroprosthesis)
+A systems-level architecture addressing safety, attention mediation,
+and cortical stability in artificial vision research.
+
+### 2. VISTA-T
+**Visual Intensity Spike Threshold Amplifier – Transcranial**
+
+A non-invasive, external, hearing-aid–like device concept designed
+specifically for:
+
+- Blindsight
+- Hemineglect
+
+VISTA-T operates by selectively boosting insufficient cortical spike
+intensity in the primary visual cortex (V1), without generating new
+visual information or bypassing natural pathways.
+
+---
+
+## Core Principle
+
+> Loss of perception does not always imply loss of signal.
+> In many cases, it reflects insufficient neuronal intensity.
+
+VISTA-T restores perception by elevating endogenous neural activity
+above conscious thresholds while preserving natural encoding.
+
+---
+
+## Key Characteristics
+
+- No surgery
+- External, scalp-mounted electrode array
+- No infrared or thermal stimulation
+- Patient-specific calibration
+- Preserves biological attention mechanisms
+- Compatible with neurorehabilitation workflows
+
+---
+
+## Intended Use
+
+This repository is for:
+- Conceptual research
+- Preclinical exploration
+- Ethical neuroscience discussion
+- Open academic collaboration
+
+It is **not** a commercial product and **not** a medical device.
+
+---
+
+## License
+
+This project is released under the **MIT License**.
+See the LICENSE file for full terms.
+
+---
+
+## Author
+
+Sunil Thakur  
+Independent Researcher
