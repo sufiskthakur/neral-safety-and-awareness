@@ -1,0 +1,86 @@
+## Ethics and Safety Statement
+
+### 1. Scope of the Work
+
+This work presents a **conceptual, non-invasive neurostimulation framework**
+intended for academic discussion and future research evaluation.
+
+It does not constitute a clinical device, medical recommendation,
+or treatment protocol.
+
+---
+
+### 2. Non-Invasiveness and Harm Minimization
+
+The proposed VISTA-T framework:
+- Avoids surgical implantation
+- Avoids infrared or thermal exposure
+- Operates within current ranges comparable to established non-invasive neuromodulation techniques
+- Does not introduce artificial percepts or override natural cognition
+
+The design philosophy prioritizes biological compatibility and reversibility.
+
+---
+
+### 3. Respect for Neural Autonomy
+
+VISTA-T does not:
+- Inject information into the brain
+- Bypass attention or salience mechanisms
+- Override volitional control
+- Alter identity, memory, or behavior
+
+It only compensates for insufficient spike intensity where endogenous signals already exist.
+
+---
+
+### 4. Risk Awareness
+
+Potential risks common to any non-invasive neurostimulation approach include:
+- Transient discomfort
+- Headache
+- Fatigue
+- Temporary sensory changes
+
+These risks must be evaluated in controlled research environments
+with appropriate oversight.
+
+---
+
+### 5. Clinical Boundary Conditions
+
+The approach is **not applicable** in cases of:
+- Complete destruction of primary visual cortex
+- Absence of visual signal generation
+- Severe neurodegenerative conditions without residual cortical function
+
+---
+
+### 6. Ethical Position on Human Trials
+
+Any future human application must:
+- Receive institutional ethical approval
+- Follow informed consent protocols
+- Include independent safety monitoring
+- Begin with conservative parameter limits
+
+The author explicitly discourages unauthorized experimentation.
+
+---
+
+### 7. Open Science Commitment
+
+This work is released under an open license to:
+- Prevent monopolization
+- Prevent unsafe proprietary acceleration
+- Encourage transparent peer scrutiny
+- Ensure public accountability
+
+Open access is treated as a **safety feature**, not merely a licensing choice.
+
+---
+
+### 8. Conflict of Interest
+
+The author declares no financial interest, commercial intent,
+or institutional affiliation related to this work.
